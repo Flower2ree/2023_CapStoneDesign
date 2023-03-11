@@ -1,1 +1,1 @@
-# 2023_CapStoneDesign
+# 2023_CapStone Design
